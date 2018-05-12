@@ -26,6 +26,8 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 ## JavaScript
 
+- Modern JS Cheatsheet https://github.com/mbeaudru/modern-js-cheatsheet
+
 ## jQuery
 
 - http://jqapi.com/
