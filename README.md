@@ -4,6 +4,14 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 # Frontend
 
+## JavaScript
+
+## CSS
+
+## HTML
+
+## Responsive Design
+
 # Backend
 
 
