@@ -37,9 +37,12 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 - Cheatsheet https://oscarotero.com/jquery/
 
 
-## HTML + CSS 
+## HTML
 
 - HTML + CSS Course https://learn.shayhowe.com/html-css/
+
+- Web Fonts https://www.html5rocks.com/en/tutorials/webfonts/quick/
+
 
 ## CSS 
 
@@ -47,7 +50,20 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - Converting Colour Values http://www.color-hex.com/
 
-- **Flexbox Cheatsheet https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- CSS Shapes https://css-tricks.com/examples/ShapesOfCSS/
+
+- Graceful Degradation vs Progressive Enhancement https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement
+
+- BEM Docs https://en.bem.info/methodology/quick-start/
+
+- You Might Not Need JS http://youmightnotneedjs.com/ 
+
+
+## Flexbox
+
+- Flexbox Cheatsheet https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+- Another Cheatsheet http://jonibologna.com/content/images/flexboxsheet.pdf
 
 
 ## Responsive Design
