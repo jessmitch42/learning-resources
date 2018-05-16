@@ -43,6 +43,7 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - Web Fonts https://www.html5rocks.com/en/tutorials/webfonts/quick/
 
+- Font Examples http://beautifulwebtype.com/
 
 ## CSS 
 
@@ -58,12 +59,24 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - You Might Not Need JS http://youmightnotneedjs.com/ 
 
+- Guidelines for Scalable CSS https://cssguidelin.es/
+
+- Reference w/ CSS examples https://cssreference.io/
+
+- Background Patterns http://www.heropatterns.com/
+
+- Truncating Strings https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/
+
+- Breakpoints https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862
+
 
 ## Flexbox
 
 - Flexbox Cheatsheet https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 - Another Cheatsheet http://jonibologna.com/content/images/flexboxsheet.pdf
+
+- Wes Bos's 'What the Flexbox?!' https://flexbox.io/
 
 
 ## Responsive Design
