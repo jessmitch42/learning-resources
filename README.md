@@ -12,6 +12,8 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - "What is Programming?" Article http://outspeaking.com/words-of-technology/what-is-programming.html
 
+- Sarah Drasner's Bookmarked Codepens https://codepen.io/collection/nMgKxJ/ 
+
 
 ## git
 
@@ -40,6 +42,12 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 - HTML + CSS Course https://learn.shayhowe.com/html-css/
 
 ## CSS 
+
+- Basic Terminology https://www.impressivewebs.com/css-terms-definitions/
+
+- Converting Colour Values http://www.color-hex.com/
+
+- **Flexbox Cheatsheet https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 
 ## Responsive Design
