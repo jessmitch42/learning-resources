@@ -4,6 +4,8 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 ## General
 
+- Browser Compatibility https://caniuse.com/ 
+
 - Cheatsheets https://devhints.io/
 
 - Free Resources List https://medium.com/dvlprstash/free-resources-for-developers-dec-2017-d23eddd83f5
@@ -49,6 +51,15 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - List of Tags https://www.w3schools.com/tags/
 
+- Good Intro to HTML https://learn.shayhowe.com/html-css/
+
+- Cheatsheet https://lifehacker.com/get-a-jump-start-on-your-next-web-site-with-this-html-c-1782183641?utm_campaign=socialflow_lifehacker_facebook&utm_source=lifehacker_facebook&utm_medium=socialflow
+
+- HTML5 Help http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
+
+- More HTML5 Help http://blog.teamtreehouse.com/use-html5-sectioning-elements
+
+
 ## CSS 
 
 - Basic Terminology https://www.impressivewebs.com/css-terms-definitions/
@@ -72,6 +83,8 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 - Truncating Strings https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/
 
 - Breakpoints https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862
+
+- Picking Colour Palettes https://www.palettable.io/
 
 
 ## Flexbox
