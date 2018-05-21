@@ -16,6 +16,8 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - Sarah Drasner's Bookmarked Codepens https://codepen.io/collection/nMgKxJ/ 
 
+- Advent of Code http://adventofcode.com/
+
 
 ## git
 
@@ -70,6 +72,12 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 - JS 'Wat' https://www.destroyallsoftware.com/talks/wat
 
 - Object Methods vs Prototype Methods https://veerasundar.com/blog/2014/02/javascript-prototype-methods-vs-object-methods/
+
+- Wes Bos's ES6 Course https://es6.io/
+
+- Eric Elliot Misconceptions About JS article https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
+
+- Eric Elliot Article https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
 
 - 
 
