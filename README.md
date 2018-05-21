@@ -26,6 +26,11 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 - Github git Tutorial https://try.github.io/levels/1/challenges/1
 
 
+## Github 
+
+- Etiquette https://stories.devacademy.la/how-to-use-github-like-a-proper-human-being-1a9c895c4e13?gi=2ac5f8a7eccd#.irxbptz3k
+
+
 # Frontend
 
 ## JavaScript
