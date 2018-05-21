@@ -36,14 +36,18 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - Cheatsheet https://oscarotero.com/jquery/
 
+## Web Fonts 
+
+- Web Fonts https://www.html5rocks.com/en/tutorials/webfonts/quick/
+
+- Font Examples http://beautifulwebtype.com/
+
 
 ## HTML
 
 - HTML + CSS Course https://learn.shayhowe.com/html-css/
 
-- Web Fonts https://www.html5rocks.com/en/tutorials/webfonts/quick/
-
-- Font Examples http://beautifulwebtype.com/
+- List of Tags https://www.w3schools.com/tags/
 
 ## CSS 
 
