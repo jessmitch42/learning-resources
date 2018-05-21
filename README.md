@@ -31,7 +31,7 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 - Etiquette https://stories.devacademy.la/how-to-use-github-like-a-proper-human-being-1a9c895c4e13?gi=2ac5f8a7eccd#.irxbptz3k
 
 
-# Command Line
+## Command Line
 
 - Command Cheat Sheet https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html
 
@@ -144,4 +144,12 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 
 # Backend
+
+## MySQL 
+
+- Cheat Sheet https://gist.github.com/hofmannsven/9164408
+
+- Another Cheat Sheet https://www.cheatography.com/davechild/cheat-sheets/mysql/
+
+- Postgres vs. MySQL https://eng.uber.com/mysql-migration/
 
