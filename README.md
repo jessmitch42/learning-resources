@@ -1,6 +1,6 @@
 # Favourite Programming Resources
 
-Here's a  list of some of my favourite links and courses I've used while learning how to code.  
+Here's a  list of some of my favourite links and courses I've used while learning how to code. It's basically all my bookmarked pages that other people might find helpful. :) 
 
 ## General
 
@@ -21,9 +21,17 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 ## Blogs
 
-- https://scotch.io/
+- Tech Blog https://scotch.io/
 
-- 
+- Tech Blog https://dev.to/
+
+- https://news.ycombinator.com/
+
+- Not always tech https://boingboing.net/
+
+- Reading List http://www.nicolabortignon.com/startup-reading-list/
+
+- Lea Verou's Blog http://lea.verou.me/
 
 
 ## Editors, etc.
@@ -31,8 +39,6 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 - Python Tutor (Code Run Step-by-Step) http://pythontutor.com/
 
 - Sandbox JS Environment https://runkit.com/
-
-- 
 
 
 ## Practice
@@ -106,6 +112,7 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - Extensive List of YouTube Channels https://github.com/andrew--r/channels
 
+
 ## jQuery
 
 - http://jqapi.com/
@@ -174,6 +181,13 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 ## Responsive Design
 
 - Apple Product Pixel Dimensions https://stonehippo.com/apple_display_pixel_dimensions/ 
+
+
+## Design (General)
+
+- https://blog.prototypr.io/design-for-programmers-d38c56982cd0
+
+- Make Better Forms https://uxdesign.cc/design-better-forms-96fadca0f49c
 
 
 # Backend
