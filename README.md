@@ -16,6 +16,24 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - Sarah Drasner's Bookmarked Codepens https://codepen.io/collection/nMgKxJ/ 
 
+- Semantic Versioning Explained https://semver.org/
+
+
+## Blogs
+
+- https://scotch.io/
+
+- 
+
+
+## Editors, etc.
+
+- Python Tutor (Code Run Step-by-Step) http://pythontutor.com/
+
+- Sandbox JS Environment https://runkit.com/
+
+- 
+
 
 ## Practice
 
@@ -23,7 +41,7 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - Codewars https://www.codewars.com/
 
--
+- Kaggle https://www.kaggle.com/
 
 
 ## git
@@ -86,7 +104,7 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - Eric Elliot Article https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
 
-- 
+- Extensive List of YouTube Channels https://github.com/andrew--r/channels
 
 ## jQuery
 
