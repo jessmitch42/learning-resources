@@ -16,7 +16,14 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - Sarah Drasner's Bookmarked Codepens https://codepen.io/collection/nMgKxJ/ 
 
+
+## Practice
+
 - Advent of Code http://adventofcode.com/
+
+- Codewars https://www.codewars.com/
+
+-
 
 
 ## git
