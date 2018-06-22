@@ -152,6 +152,8 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - Graceful Degradation vs Progressive Enhancement https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement
 
+- GD vs PE https://www.mavenecommerce.com/blog/progressive-enhancement-vs-graceful-degradation/
+
 - BEM Docs https://en.bem.info/methodology/quick-start/
 
 - You Might Not Need JS http://youmightnotneedjs.com/ 
@@ -200,7 +202,9 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - The Best Interface is No Interface (Book) http://www.nointerface.com/book/
 
-- 
+- The Shape of Design (book - free) https://shapeofdesignbook.com/chapters/01-how-and-why/
+
+- Hey Designer Newsletter https://heydesigner.com/
 
 
 # Backend
