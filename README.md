@@ -170,6 +170,8 @@ Here's a  list of some of my favourite links and courses I've used while learnin
 
 - Picking Colour Palettes https://www.palettable.io/
 
+- Estelle Weyl Slides from Frontend Masters Course: CSS In-Depth v2 https://estelle.github.io/cssmastery
+
 
 ## Flexbox
 
